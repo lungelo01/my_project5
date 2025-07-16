@@ -1,0 +1,12 @@
+# Example Django .gitignore
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.sqlite3
+venv/
+.env
+*.log
+.DS_Store
+/static/
+media/
